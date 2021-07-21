@@ -10,7 +10,7 @@ public class Prime
 {
     public static void main(String args[])
     {
-        int i,j,n,x,c;
+        int i,j,n,c;
         Scanner in = new Scanner(System.in);
         System.out.print("Enter a number ");
         n=in.nextInt();
